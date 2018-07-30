@@ -34,6 +34,7 @@
 }
 
 /* Select the image that has ad id of diamond */
+.yellow_diamond
 /*selector for diamond goes here */ {
   position: absolute;
   z-index: 3;
